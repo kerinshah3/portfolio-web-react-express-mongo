@@ -1,0 +1,7 @@
+export { default as Home} from "./screen/Home"
+export { default as Education} from "./screen/Education"
+export { default as NavBar} from "./NavBar"
+// export { default as Experience} from "./screen/Experience"
+// export { default as FinancePortfolio} from "./screen/FinancePortfolio"
+// export { default as ProjectPortfolio} from "./screen/ProjectPortfolio"
+// export { default as Footer } from "./Footer"
